@@ -1,2 +1,2 @@
 # trc20-contract
-ExbitronCoin (EXTR) - TRC20 Token
+ExbitronDigital (EXTR) - TRC20 Token
