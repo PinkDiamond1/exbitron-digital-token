@@ -1,2 +1,8 @@
-# trc20-contract
-ExbitronDigital (EXTR) - TRC20 Token
+# ExbitronDigital (EXTR) 
+
+- TRC20 Token
+- Name **Exbitron Digital Token**
+- Symbol **EXTR**
+- Max supply **100.000.000**
+- **8** decimals
+
