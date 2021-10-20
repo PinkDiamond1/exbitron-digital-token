@@ -80,8 +80,8 @@ contract ExbitronDigital is ERC20Interface, Owned, SafeMath {
 
     // Constructor
     constructor() public {
-        name = "Exbitron Digital Token";
-        symbol = "ETRX";
+        name = "ExbiDigiToken";
+        symbol = "EDT";
         decimals = 8;
         _totalSupply = 100000000 * (10 ** uint256(decimals));
         balances[msg.sender] = _totalSupply;
