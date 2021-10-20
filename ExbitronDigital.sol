@@ -69,7 +69,7 @@ contract Owned {
 }
 
 // ERC20 Token, with the addition of symbol, name and decimals and assisted token transfers
-contract ExbitronCoin is ERC20Interface, Owned, SafeMath {
+contract ExbitronDigital is ERC20Interface, Owned, SafeMath {
     string public symbol;
     string public  name;
     uint8 public decimals;
@@ -80,7 +80,7 @@ contract ExbitronCoin is ERC20Interface, Owned, SafeMath {
 
     // Constructor
     constructor() public {
-        name = "Exbitron Token";
+        name = "Exbitron Digital Token";
         symbol = "ETRX";
         decimals = 8;
         _totalSupply = 100000000 * (10 ** uint256(decimals));
