@@ -1,4 +1,4 @@
-# ExbiDigiToken (EDT) 
+# [Exbitron.Digital](https://exbitron.digital) (EDT) 
 
 - TRC20 Token
 - Name **Exbitron Digital Token**
